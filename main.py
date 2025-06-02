@@ -12,7 +12,7 @@ fundoJogo = pygame.image.load("assets/fundoJogo.png")
 
 largura_iron = iron.get_width()
 altura_iron = iron.get_height()
-
+#piooi
 posicaoXIron = 275
 posicaoYIron = 400
 movimentoXIron = 0
